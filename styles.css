@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, monospace;
+    background-color: gainsboro;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+
+table {
+    border : 2px solid purple
+}
+
+thead {
+    background-color: violet;
+}
+
+td {
+    text-decoration: antiquewhite ;
+    border-top: 1px solid purple
+}
+
+.color {
+    font-family: monospace;
+}
